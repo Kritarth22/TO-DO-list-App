@@ -1,7 +1,7 @@
-# TO-DO list Application
+# 📝 TO-DO List Application
 
 
-A minimal and interactive web-based To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, edit, and delete tasks in a clean and intuitive interface with drag-and-drop support.
+A clean and interactive web-based To-Do List application developed using HTML, CSS, and JavaScript. This project demonstrates key frontend concepts including DOM manipulation, dynamic UI updates, and intuitive user interactions such as editing, drag-and-drop functionality, and responsive design.
 
 **🔧 Features**
 
@@ -25,6 +25,17 @@ A minimal and interactive web-based To-Do List application built using HTML, CSS
 
 **JavaScript:** DOM manipulation, event handling, drag-and-drop logic
 
-Here take a view of my website :
+**🔍 Preview**
+
+Here’s a quick look at the To-Do List application:
 
 ![image_alt](https://github.com/Kritarth22/TO-DO-list-App/blob/e62612bda8d1085f2757372cac6d6ceec7a6b3da/images/website.png)
+
+
+**🚀 Deployment**
+
+To view the live version of this project, visit:
+
+🔗 https://kritarth22.github.io/TO-DO-list-App/
+
+
